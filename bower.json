@@ -1,0 +1,12 @@
+{
+  "name": "replicator-Quadruped3Joints",
+  "version": "0.1.0",
+  "description": "Controls a Quadruped robot using 12 servos (3 joints per leg)",
+  "homepage": "",
+  "authors": [
+    "Alexander Agudelo"
+  ],
+  "main": "main.js",
+  "keywords": [],
+  "license": "MIT"
+}
